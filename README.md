@@ -19,7 +19,7 @@ Ce projet vise à développer un classifieur capable d'identifier les
 utilisateurs du logiciel Copilote (Infologic) à partir de leurs séquences d'actions.
 
 Rapport complet :
-[Rapport_ECL\_\_\_Intro_Datascience.pdf](./Rapport_ECL_Datascience.pdf)
+[Rapport_ECL\_Datascience.pdf](./Rapport_ECL_Datascience.pdf)
 
 ## Structure du repository
 
@@ -60,7 +60,7 @@ jupyter notebook
 
 ## Auteurs
 
--   Anthonio Zavatara\
--   Elmehdi Marhfour\
--   Youssef Ismaini\
+-   Anthonio Zavatara
+-   Elmehdi Marhfour
+-   Youssef Ismaini
     Enseignant : Julien Velcin
