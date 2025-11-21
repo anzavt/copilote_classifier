@@ -61,4 +61,4 @@ jupyter notebook
 -   Anthonio Zavatara
 -   Elmehdi Marhfour
 -   Youssef Ismaini
-    Enseignant : Julien Velcin
+Enseignant : Julien Velcin  
