@@ -24,12 +24,11 @@ Rapport complet :
 ## Structure du repository
 
     identification-utilisateurs-copilote
+    ├── data/
     ├── README.md
     ├── Rapport_ECL_Datascience.pdf
     ├── notebook.ipynb
-    ├── requirements.txt
-    ├── data/
-    └── src/
+    └── requirements.txt
 
 ## Méthodologie
 
