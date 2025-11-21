@@ -40,11 +40,10 @@ Rapport complet :
     Regression)
 
 ## Résultats
-
-  Modèle          Accuracy   F1 Micro   F1 Macro
-  --------------- ---------- ---------- ----------
-  Random Forest   0.7393     0.7393     0.6645
-  XGBoost         0.6845     0.6845     0.6209
+| Modèle         | Accuracy | F1 Micro | F1 Macro |
+|----------------|---------|----------|----------|
+| Random Forest  | 0.7393  | 0.7393   | 0.6645   |
+| XGBoost        | 0.6845  | 0.6845   | 0.6209   |
 
 ## Installation & Exécution
 
