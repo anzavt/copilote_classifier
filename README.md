@@ -58,7 +58,7 @@ jupyter notebook
 
 ## Auteurs
 
--   Anthonio Zavatara
+-   Anthonio Zavatra
 -   Elmehdi Marhfour
 -   Youssef Ismaini
-Enseignant : Julien Velcin  
+-   Enseignant : Julien Velcin  
