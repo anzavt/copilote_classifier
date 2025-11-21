@@ -3,16 +3,6 @@
 **Projet MOD 7.2 -- Introduction à la Data Science**\
 *École Centrale Lyon*
 
-```{=html}
-<p align="center">
-```
-`<img src="https://img.shields.io/badge/ML-Classification-blue?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>`{=html}
-```{=html}
-</p>
-```
 ## Table des matières
 
 -   Contexte & Objectifs
@@ -33,7 +23,7 @@ Rapport complet :
 
 ## Structure du repository
 
-    📦 identification-utilisateurs-copilote
+    identification-utilisateurs-copilote
     ├── README.md
     ├── Rapport_ECL_Datascience.pdf
     ├── notebook.ipynb
